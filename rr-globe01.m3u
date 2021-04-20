@@ -6,7 +6,7 @@ https://raw.githubusercontent.com:443/syukriadi66/code/master/Proyek_01-10_SD%20
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="INDONESIA",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="INDONESIA",MNC
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="INDONESIA",MMM
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="INDONESIA",TRANS TV https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
