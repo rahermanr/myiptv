@@ -6,10 +6,10 @@ https://raw.githubusercontent.com:443/syukriadi66/code/master/Proyek_01-10_SD%20
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="INDONESIA",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="INDONESIA",MMM
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="INDONESIA",MAN
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="INDONESIA",TRANS TV https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="INDONESIA",TRANS TV https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="INDONESIA",ANTV
 https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
